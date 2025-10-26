@@ -8,8 +8,8 @@ date: 2025-11-03
 venue: 'American Society of Hematology's 67th Annual Meeting'
 paperurl: #'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Rao. T et. al. (2025). Interpretable Deep Learning Predicts Polycythemia Vera and Identifies Novel Genomic Associations. Blood. 2025 Nov 3. '
-
 ---
+
 
 ### About the Study
 This study introduces a new deep-learning approach that uses genomic data (WES) to detect polycythemia vera (PV), especially in patients who lack the common JAK2 mutation. The model not only accurately identified PV cases but after applying interpretability methods, we see the model identifies novel genes that may play a role in the disease. This is a step to move past the 'black-box'-like nature of deep learning as the system offers clues to its underlying biology. This method could improve early diagnosis and open new directions for biomarker discovery in PV and other poorly understood genetic diseases. 
