@@ -3,7 +3,7 @@ title: "Investigating Health Literacy and Sociodemographic Factors in College St
 collection: publications
 category: manuscripts
 permalink: /publication/health-literacy
-excerpt: #'Abstract'
+excerpt: 'Abstract'
 date: 2025-07-01
 venue: 'Scientific Reports (Nature Portfolio)'
 slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
