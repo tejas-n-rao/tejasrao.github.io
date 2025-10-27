@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tejas Rao"
   pronouns         : # "he/him"  
-  bio              : # "3rd Year Undergraduate Student studying Biology & Data Science. Aiming to build a research career in Computation and ML for Biology."
+  bio              : "\n\n" # "3rd Year Undergraduate Student studying Biology & Data Science. Aiming to build a research career in Computation and ML for Biology."
   location         : "India"
   employer         : "Krea University"
   uri              : # URL
