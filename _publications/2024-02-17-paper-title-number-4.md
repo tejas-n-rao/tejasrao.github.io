@@ -1,7 +1,7 @@
 ---
 title: "Interpretable Deep Learning Predicts Polycythemia Vera and Identifies Novel Genomic Associations"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/X-AI-PV
 excerpt: #'This paper is about fixing template issue #693.'
 date: 2025-11-03
