@@ -10,8 +10,6 @@ paperurl: # 'https://academicpages.github.io/files/paper3.pdf'
 citation: "Rao. T et. al. (2025). Interpretable Deep Learning Predicts Polycythemia Vera and Identifies Novel Genomic Associations"
 ---
 
-**----**
-
 ### *My role*: 
 As first author, I was responsible for conceptualizing the study, developing the analytical framework. I also performed the data processing, model implementation, as well as lead the interpretation of results. I'm currently working on a larger cohort (n > 200) to validate our findings. The following results will be reported in a peer-reviewed journal study. 
 

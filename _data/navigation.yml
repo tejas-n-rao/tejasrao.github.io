@@ -17,8 +17,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Images"
-    url: /images/   
+  - title: "Gallery"
+    url: /Gallery/   
 
   # - title: "Teaching"
   #   url: /teaching/   

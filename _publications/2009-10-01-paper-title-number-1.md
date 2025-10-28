@@ -12,8 +12,6 @@ bibtexurl: # 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Sudhakar SK, Doshi DP, Nair G, Rao T. Investigating health literacy and sociodemographic factors in college students. Scientific Reports. 2025 Jul 1;15(1):20455.'
 ---
 
-**----**
-
 ### *My role*: 
 I ensured reproducibility of results, worked on parts of the statistical analysis, and contributed through the peer-review. Here, I re-implemented MANOVA analysis in the paper as well as determined the confidence intervals for partial eta squared and Cohen's F value. 
 
