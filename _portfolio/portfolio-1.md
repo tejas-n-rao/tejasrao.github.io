@@ -1,6 +1,6 @@
 ---
 title: "Investigating how apt certain DIA Mass Spectroscopy methods are for O-Glycoproteomics"
-excerpt: "Conducted in collaoration with Dr Kathirvel Alagesan at Proteomics Research Platform, Charpentier Lab (Nobel – 2020) <br/><img src='/images/500x300.png'>" # Image of xlsx file
+excerpt: "Conducted in collaoration with Dr Kathirvel Alagesan at Proteomics Research Platform, Charpentier Lab (Nobel – 2020) <br/><img src='/images/Glycoproteomics.png'>" # Image of xlsx file
 collection: projects
 ---
 
