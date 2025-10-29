@@ -3,7 +3,7 @@ title: "Interpretable Deep Learning Predicts Polycythemia Vera and Identifies No
 collection: publications
 category: conferences
 permalink: /publication/X-AI-PV
-excerpt: 'This is project aims to predict the presence of a rare blood cancer, 'Polycythemia Vera' from Genomic Data'
+excerpt: "This is project aims to predict the presence of a rare blood cancer, 'Polycythemia Vera' from Genomic Data"
 date: 2025-11-03
 venue: "American Society of Hematology's 67th Annual Meeting"
 paperurl: # 'https://academicpages.github.io/files/paper3.pdf'
