@@ -14,8 +14,8 @@ main:
   - title: "Resume"
     url: /files/TejasRao_CV.pdf
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Gallery"
     url: /Gallery/   
