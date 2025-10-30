@@ -16,6 +16,7 @@ Have built this interest by pursuing research across Industry and Academia in do
 <!-- Please feel free to reach out to me in case you'd like to collaborate, or would like to converse regarding some of the work I've conducted -->
 
 ### Selected Positions
+- LINC Fellow – Computational Team, Harvard and MGH: Deep Learning methods for Neuroimaging
 - Research Collaborator at Proteomics Research Platform, Charpentier Lab (MPUSP): Evaluating Mass Spectrometry methods for O-Glycoproteomics
 - Bioinformatics Intern, Karkinos Healthcare: Developing interpretable deep learning methods for cancer prediction
 - Research Trainee and Intern, IIT-Delhi: Conducted Literature review on Quantum ML methods for small-molecule drug discovery
