@@ -15,6 +15,6 @@ citation: 'Sudhakar SK, Doshi DP, Nair G, Rao T. Investigating health literacy a
 ### About the Study
 It explores how health literacy varies among college students and how it is influenced by sociodemographic factors. We found that students with health insurance, higher family income, and regular physical activity had better health literacy, while factors like study discipline or food preference showed little effect. The results highlight the need for targeted programs to support students with lower health literacy for more equitable health outcomes.
 
-### *My role:* 
+### My role:
 I ensured reproducibility of results, worked on parts of the statistical analysis, and contributed throughout the peer-review process. Here, I determined the confidence intervals for partial eta squared and Cohen's F which were reported in the manuscript. Additionally, I independently re-implemented the MANOVA analysis ensuring statistical reproducibility  
 

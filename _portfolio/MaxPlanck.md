@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of DIA Mass Spectroscopy methods for O-Glycoproteomics"
-excerpt: "Conducted in collaoration with Dr Kathirvel Alagesan at Proteomics Research Platform, Charpentier Lab (Nobel – 2020) at the Max Planck Unit for the Science of Pathogens <br/><img src='/images/Glycoproteomics.png'>" # Image of xlsx file
+excerpt: "Conducted in collaoration with Dr Kathirvel Alagesan at Proteomics Research Platform, Charpentier Lab (Nobel – 2020) at the Max Planck Unit for the Science of Pathogens <br/><img src '../images/Glycoproteomics.png'>" # Image of xlsx file
 collection: projects
 ---
 
