@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Gallery"
-    url: /Gallery/   
+  # - title: "Gallery"
+  #   url: /Gallery/   
 
   # - title: "Teaching"
   #   url: /teaching/   
