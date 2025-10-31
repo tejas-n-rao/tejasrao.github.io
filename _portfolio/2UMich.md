@@ -2,6 +2,7 @@
 title: "In-silico determination of Biophysical factors affecting FS-Neuron Depolarisation Blockade"
 excerpt: "Conducted under Dr Shyam Sudhakar (Krea University), in collaboration with Dr Omar J Ahmed (University of Michigan, Ann-Arbor)" # Image of visualisation
 collection: projects
+permalink: /depolarisation-block
 ---
 
 ### About the Study:

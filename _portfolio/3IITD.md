@@ -2,6 +2,7 @@
 title: "Quantum ML for Small Molecule Generation: A Literature Review"
 excerpt: "Under mentorship of Dr Abhishek Dixit (IIT-Delhi)" # Image of visualisation
 collection: projects
+permalink: /QML
 ---
 
 ### About the Study:

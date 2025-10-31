@@ -2,6 +2,7 @@
 title: "Deep Learning Prediction of Hemoglobin Levels from EEG Data"
 excerpt: "Conducted under Prof. Shyam Kumar Sudhakar" # Image of visualisation
 collection: projects
+permalink: /EEG-Hb
 ---
 
 ### About the Study:
